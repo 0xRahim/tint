@@ -8,6 +8,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Themes](https://img.shields.io/badge/themes-4-38bdf8)](#-themes)
 [![Tests: bun test](https://img.shields.io/badge/tests-bun%20test-34d399)](#-testing)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
 
 **A small terminal colorizer with helpers for headings, status messages, lists, prompts, and figlet logos.**
 
