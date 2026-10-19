@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="tint — beautiful terminal output for JavaScript CLIs">
+<title>tint</title>
+<defs>
+<linearGradient id="rainbow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#38bdf8"/><stop offset="0.25" stop-color="#34d399"/><stop offset="0.5" stop-color="#fbbf24"/><stop offset="0.75" stop-color="#fb923c"/><stop offset="1" stop-color="#f87171"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="800 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+<clipPath id="chero"><rect x="144.772" y="158" height="28" width="0"><animate attributeName="width" calcMode="discrete" dur="12s" repeatCount="indefinite" keyTimes="0;0.0667;0.071;0.0754;0.0797;0.0841;0.0884;0.0928;0.0971;0.1014;0.1058;0.1101;0.1145;0.1188;0.1232;0.1275;0.1319;0.1362;0.1406;0.1449;0.1493;0.1536;0.158;0.1623;0.1667;0.171;0.1754;0.1797;0.1841;0.1884;0.1928;0.1971;0.2014;0.2058;0.2101;0.2145;0.2188;0.2232;0.2275;0.2319;0.2362;0.2406;0.2449;0.2493;0.2536;0.258;0.2623;0.2667;0.9" values="0;0;12.836;23.672;34.508;45.344;56.18;67.016;77.852;88.688;99.524;110.36;121.196;132.032;142.868;153.704;164.54;175.376;186.212;197.048;207.884;218.72;229.556;240.392;251.228;262.064;272.9;283.736;294.572;305.408;316.244;327.08;337.916;348.752;359.588;370.424;381.26;392.096;402.932;413.768;424.604;435.44;446.276;457.112;467.948;478.784;489.62;500.456;0"/></rect></clipPath>
+</defs>
+<text x="400" y="118" text-anchor="middle" font-size="120" font-weight="800" letter-spacing="8" fill="url(#rainbow)">tint</text>
+<rect x="260" y="136" width="280" height="4" rx="2" fill="url(#rainbow)"/>
+<g font-size="18"><text x="144.772" y="178" clip-path="url(#chero)" xml:space="preserve"><tspan fill="#8b949e">Beautiful terminal output for JavaScript CLIs.</tspan></text></g>
+</svg>
