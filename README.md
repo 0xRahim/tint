@@ -141,4 +141,6 @@ Issues and pull requests are welcome. If you add a theme, add it to the palette 
 
 ## 📄 License
 
-<!-- Add a LICENSE file and name it here, e.g. MIT. -->c
+Released under the [MIT License](./LICENSE).
+
+Copyright (c) 2026 0xRahim
