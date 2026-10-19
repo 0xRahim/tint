@@ -2,10 +2,19 @@
   "name": "tint",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "test": "bun test",
+    "example": "bun examples/dashboard.ts",
+    "example:basic": "bun examples/basic.ts",
+    "example:gallery": "bun examples/gallery.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^7"
+  },
+  "dependencies": {
+    "figlet": "^1.12.0"
   }
 }
